@@ -40,3 +40,23 @@ const reverseSeq = n => {
     return arr.reverse();
 };
 ```
+### Experience
+I have no work experience relevant to software development at this time.
+
+### Trainings
+[**HTML5 & CSS3 Basics Course (Stepik)**](https://stepik.org/course/58973/promo)  
+[Certificate](https://stepik.org/cert/1517607)
+
+[**Version Control with Git (EPAM)**](https://learn.epam.com/detailsPage?id=601f195a-d408-4439-a16d-0630ed2a412e)
+
+[**QA Automation Engineers School (QA.Guru)**](https://qa.guru/)  
+[An example project](https://github.com/WakeUpTheo/mobile-Wiki)
+
+### Education
+**Samara National Research University**  
+Organization and Technology of Information Security  
+2020
+
+**Samara State Transport University**  
+Information Transmission Systems  
+2005 – 2009
