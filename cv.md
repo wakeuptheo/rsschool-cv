@@ -62,5 +62,5 @@ Information Transmission Systems
 2005 – 2009
 
 ### English
-[**A2 Elementary**](hhttps://www.efset.org/cert/d2MGwU)  
+[**A2 Elementary**](https://www.efset.org/cert/d2MGwU)  
 I keep learning to improve my language skills.
