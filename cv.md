@@ -1,5 +1,7 @@
 ## Fedor Parenkov
 
+![](./images/selfie.png)
+
 ### Contact Info
 **Location:** Samara, Russia  
 **Email:** parenkov.fedor@gmail.com  
