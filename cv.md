@@ -1,6 +1,6 @@
 ## Fedor Parenkov
 
-![](./images/selfie.png)
+![](./assets/img/profile_photo.png)
 
 ### Contact Info
 **Location:** Samara, Russia  
