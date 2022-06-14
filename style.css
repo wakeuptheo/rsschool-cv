@@ -132,8 +132,9 @@ h2 {
 }
 
 pre {
-    background-color: #022550;
-    margin: 10px 20px 0 0;
+    background-color: #282c34;
+    font-size: 18px;
+    margin-top: 10px;
 }
 
 pre .violet {
