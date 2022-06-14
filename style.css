@@ -69,61 +69,37 @@ h2 {
     text-decoration: underline;
 }
 
-.footer {
-    width: 950px;
-    height: auto;
-    margin: 0 auto;
+.profile {
+    line-height: 3.5em;
+    color: white;
+    padding: 10px 0 0 0;
+    margin-bottom: 20px;
+    width: 100%;
+    background-color: #444444;
+}
+
+.profile-photo {
+    margin: 0;
+    padding: 5px 0 15px 60px;
+    float: left;
+}
+
+.profile-title {
+    padding-top: 48px;
     text-align: center;
     background-color: #444444;
-
-}
-
-.footer-content li {
-    padding: 20px 0 0 0;
-}
-
-.footer-content span,
-a {
     color: white;
-    font-size: 18px;
 }
 
-.github-link:hover {
-    text-decoration: underline;
-}
-
-.footer-logo {
-    background: #444444;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    padding: 10px;
-}
-
-.footer-logo-image {
-    margin-top: 10px;
-    max-width: 100%;
-    box-sizing: border-box;
+.clearfix {
+    clear: both;
 }
 
 .main {
     width: 950px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 0 0 20px 0;
     background-color: #f2f3f4;
-}
-
-.profile-photo {
-    border-radius: 50%;
-    display: block;
-    margin: 0 auto;
-}
-
-.profile {
-    line-height: 5.5em;
-    padding: 10px 0 10px 0;
-    display: flex;
-    justify-content: center;
 }
 
 .section {
@@ -133,33 +109,22 @@ a {
     margin: 0 auto 0 auto;
     padding: 5px 10px 20px 30px;
     line-height: 1.7em;
-    border-left: 10px solid #444444;
 }
 
-.first-section {
-    font-size: 16px;
-    background-color: #f2f3f4;
-    width: 95%;
-    margin: 0 auto 0 auto;
-    padding: 5px 10px 20px 30px;
-    line-height: 1.7em;
-    border-left: 10px solid #444444;
-}
-
-.section span, .first-section span {
+.section span {
     font-weight: bold;
     color:#363636
 }
 
-.section a, .first-section a {
+.section a {
     color: #008080;
 }
 
-.section a:hover, .first-section a:hover {
+.section a:hover {
     color: blue;
 }
 
-.section header, .first-section header {
+.section header {
     margin: 15px 0 20px 0;
     padding-bottom: 5px;
     border-bottom: 5px solid #444444;
@@ -209,4 +174,41 @@ pre .blue {
 
 pre .white {
     color: white;
+}
+
+.footer {
+    width: 950px;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #444444;
+
+}
+
+.footer-content li {
+    padding: 20px 0 0 0;
+}
+
+.footer-content span,
+a {
+    color: white;
+    font-size: 18px;
+}
+
+.github-link:hover {
+    text-decoration: underline;
+}
+
+.footer-logo {
+    background: #444444;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.footer-logo-image {
+    margin-top: 10px;
+    max-width: 100%;
+    box-sizing: border-box;
 }
