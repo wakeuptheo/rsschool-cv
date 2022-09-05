@@ -5,7 +5,7 @@
 ### Contact Info
 **Location:** Samara, Russia  
 **Email:** parenkov.fedor@gmail.com  
-**Telegram:** [@wakeuptheo](https://t.me/WakeUpTheo)  
+**Telegram:** [@wakeuptheo](https://t.me/wakeuptheo)  
 **Discord:** wakeuptheo#1283
 
 ### About Me
