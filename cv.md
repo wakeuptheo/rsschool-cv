@@ -54,17 +54,23 @@ function toWeirdCase(string) {
 toWeirdCase("Hi there! My name is Fedor.") => output: "Hi ThErE! My NaMe Is FeDoR."
 ```
 ### Experience
-I have no work experience relevant to software development at this time.
+Educational projects:   
+* [**Travel Portal**](https://rolling-scopes-school.github.io/wakeuptheo-JSFEPRESCHOOL2022Q2/travel/)  
+A landing page with adaptive for desktop/mobile (JavaScript/CSS/HTML)
+* [**Momentum**](https://rolling-scopes-school.github.io/wakeuptheo-JSFEPRESCHOOL2022Q2/momentum/)  
+A personal dashboard for inspiration (JavaScript/CSS/HTML)
+* [**Eldritch Horror helper**](https://rolling-scopes-school.github.io/wakeuptheo-JSFEPRESCHOOL2022Q2/codejam-eldritch/)  
+A helper for the Eldritch Horror board game (JavaScript/CSS/HTML)
+
 
 ### Trainings
-[**JavaScript/Front-end Pre-School 2022Q2 (RS School)**](https://rs.school/js-stage0/)  
-[Certificate](https://app.rs.school/certificate/qsuzhbgq)  
-[An educational project](https://rolling-scopes-school.github.io/wakeuptheo-JSFEPRESCHOOL2022Q2/travel/)
+* [**JavaScript/Front-end Pre-School 2022Q2 (RS School)**](https://rs.school/js-stage0/)  
+[Certificate](https://app.rs.school/certificate/qsuzhbgq)
 
-[**HTML5 & CSS3 Basics Course (Stepik)**](https://stepik.org/course/58973/promo)  
+* [**HTML5 & CSS3 Basics Course (Stepik)**](https://stepik.org/course/58973/promo)  
 [Certificate](https://stepik.org/cert/1517607)
 
-[**Version Control with Git (EPAM Learn Digital Platform)**](https://learn.epam.com/detailsPage?id=601f195a-d408-4439-a16d-0630ed2a412e)
+* [**Version Control with Git (EPAM Learn Digital Platform)**](https://learn.epam.com/detailsPage?id=601f195a-d408-4439-a16d-0630ed2a412e)
 
 ### Education
 **Samara National Research University**  
