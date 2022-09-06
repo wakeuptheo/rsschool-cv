@@ -1,1 +1,1 @@
-https://WakeUpTheo.github.io/rsschool-cv/
+https://wakeuptheo.github.io/rsschool-cv/
