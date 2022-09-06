@@ -5,16 +5,13 @@
 ### Contact Info
 **Location:** Samara, Russia  
 **Email:** parenkov.fedor@gmail.com  
-**Telegram:** [@wakeuptheo](https://t.me/wakeuptheo)  
-**Discord:** wakeuptheo#1283
+**Telegram:** [**@wakeuptheo**](https://t.me/wakeuptheo)  
+**Discord:** wakeuptheo#1283  
+**Links:** [**GitHub**](https://github.com/wakeuptheo?tab=repositories) | [**LinkedIn**](https://www.linkedin.com/in/fedor-parenkov/?locale=en_US)
 
 ### About Me
 
 I have some no commercial experience in manual and automated testing, which includes training courses and part-time tester employment. Currently my goals is get enough knowledge and practice required for junior software engineer position in Frontend development. I think my strengths are patience, perseverance and willing to learn new things.
-
-### Links
-[**GitHub**](https://github.com/wakeuptheo?tab=repositories)    
-[**LinkedIn**](https://www.linkedin.com/in/fedor-parenkov/?locale=en_US)
 
 ### Skills
 * HTML/CSS
@@ -27,8 +24,8 @@ I have some no commercial experience in manual and automated testing, which incl
 
 ### JavaScript Code Example from Codewars ("WeIrD StRiNg CaSe" 6 kyu kata)
 **Task description:**  
-Write a function `toWeirdCase` that accepts a string, and returns the same string with all even indexed characters in each word upper cased, and all odd indexed characters in each word lower cased. The indexing just explained is zero based, so the zero-ith index is even, therefore that character should be upper cased and you need to start over for each word.
-The passed in string will only consist of alphabetical characters and spaces. Spaces will only be present if there are multiple words. Words will be separated by a single space.
+*Write a function `toWeirdCase` that accepts a string, and returns the same string with all even indexed characters in each word upper cased, and all odd indexed characters in each word lower cased. The indexing just explained is zero based, so the zero-ith index is even, therefore that character should be upper cased and you need to start over for each word.
+The passed in string will only consist of alphabetical characters and spaces. Spaces will only be present if there are multiple words. Words will be separated by a single space.*
 
 My solution:
 
